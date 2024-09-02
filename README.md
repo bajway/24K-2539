@@ -1,2 +1,6 @@
-# 24K-2539
-PF-Lab 02 Assignment
+- Hi, I'm Kashif Mehmood, student of BS-AI at FAST-NUCES Karachi.
+- I find coding quite interesting.
+- I'm currently learning C language along with python.
+- I love to play football and badminton
+- I'm also interesting in Gaming.
+- Along side coding I'm also a video editor.
